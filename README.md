@@ -13,7 +13,7 @@ To get started, clone the repo, install the dependencies, and check out the "Sta
 git clone https://github.com/auth0-blog/ngrx-facades.git
 cd ngrx-facades
 npm install
-git checkout ***
+git checkout 8e24360
 ```
 
 ## Development server
